@@ -54,8 +54,8 @@ Clean code, clear interfaces, no bloat.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-three-chi-38.vercel.app/api?username=namecoraline03&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-three-chi-38.vercel.app/api/top-langs/?username=namecoraline03&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-three-chi-38.vercel.app/api?username=morokaze&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-three-chi-38.vercel.app/api/top-langs/?username=morokaze&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
