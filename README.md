@@ -65,7 +65,7 @@ Clean code, clear interfaces, no bloat.
 
 <div align="center">
 
-[![Telegram Work](https://img.shields.io/badge/Work-@Alex_Oakwall-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Oakwall)
+[![Telegram Work](https://img.shields.io/badge/Work-@fedmeup-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedmeup)
 [![Telegram Personal](https://img.shields.io/badge/Personal-@namecoraline3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/namecoraline3)
 [![Email](https://img.shields.io/badge/Email-hi%40fentoras.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@fentoras.com)
 
